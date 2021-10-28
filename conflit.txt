@@ -1,0 +1,18 @@
+// Penser a faire une todo list
+// Se dispacher les blocs 
+ici du code ect
+et la aussi
+
+
+function faireUnTruc1() {
+
+    console.log(user.log.database);
+}
+
+
+
+function faireUnTruc() {
+
+    var info = prompt("merci de nous founir ceci cela");
+    alert(user.log.database + " " + info );
+}
