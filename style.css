@@ -1,0 +1,6 @@
+.section_cards{
+    display:flex;
+}
+.section_cards img{
+    width:50%;
+}
