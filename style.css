@@ -1,6 +1,9 @@
-.section_cards{
-    display:flex;
+.card{
+    padding: 10px;
+    width: 20%;
 }
-.section_cards img{
-    width:50%;
+
+.cards{
+    
+    text-align: center;
 }
