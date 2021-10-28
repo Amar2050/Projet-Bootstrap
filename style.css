@@ -1,9 +1,12 @@
-.card{
-    padding: 10px;
-    width: 20%;
-}
 
-.cards{
-    
-    text-align: center;
-}
+
+.cards {
+    padding:15px, auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card{
+      padding:20px;
+  }
