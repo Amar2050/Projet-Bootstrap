@@ -26,14 +26,25 @@
         font-family: 'Londrina Solid', cursive;
         font-size: 30px;
     }
+
     .contact {
         width: 100%;
-
         background-color: #9E9E9E;
         display: flex;
         align-items: center;
         justify-content: center;
     }
+
+    .h2-contact {
+        width: 100%;
+        background-color: #C7C7C7;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
 
 
     form input[type="submit"] {
